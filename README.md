@@ -24,22 +24,19 @@ Before Taylor, the work force developed own methods by trial and error. Taylor w
 •	Maintained standard conditions for performing that work
 •	Set time standard goals 
 •	Paid premiums for doing the task as specified
+
 **Work study is responsible for the following innovations**
+
 •	Stopwatch time study
 •	High-speed steel tools
 •	Tool grinders
 •	Slide rules
 •	Functional type organization
+
 **FRANK**
- (1868-1924) AND LILLIAN (1878-1972) GILBRETH
-They are known as the parents of motion/method
-study. Throughout their life time, they searched
-for the best method of doing a specific job and
-they developed many new techniques for studying
-work.
-At the beginning of his work life as a
-bricklayers apprentice, Frank Gilbreth noticed
-that his instructor was using three different
+
+ (1868-1924) AND LILLIAN (1878-1972) GILBRETH They are known as the parents of motion/method study. Throughout their life time, they searched for the best method of doing a specific job and they developed many new techniques for studying work.
+At the beginning of his work life as a bricklayers apprentice, Frank Gilbreth noticed that his instructor was using three different
 set of motions when laying the bricks
 •	One set of motions when he showed Frank how to
 lay bricks,
@@ -47,7 +44,7 @@ lay bricks,
 •	Third set of motions when he is in a hurry
 **THE WORK STUDY MAN**
 •	Personal qualities
-•	have an inventive mind,
+•have an inventive mind,
 •	be capable of devising simple mechanisms and devices which serve the purpose of saving time and effort, be able to gain the cooperation of engineers and technicians in developing such mechanisms, be good in human relations.
 •	Sincerity and honesty,
 •	Enthusiasm,
@@ -55,5 +52,6 @@ lay bricks,
 •	Tact,
 •	Good appearance
 •	Self confidence
+
 **2 Introduction**
 
