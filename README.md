@@ -179,6 +179,22 @@ Total tangible input = Value of (human + material + capital + energy + other inp
 The word tangible here refers to measurable. 
 The output of the firm as well as the inputs must be expressed in a common measurement unit. The best way is to express them in rupee value
 
+**Productivity Improvement Techniques**
+
+**(A) TECHNOLOGY BASED**
+
+**1. Computer Aided Design (CAD),Computer Aided Manufacturing (CAM), and Computer Integrated Manufacturing Systems (CIMS):**
+CAD refers to design of products, processes or systems with the help of computers. 
+
+ The impact of CAD on human productivity is significant for the advantages of CAD are: 
+
+(a) Speed of evaluation of alternative designs
+
+ (b) Minimisation of risk of functioning, and 
+ 
+(c) Error reduction.
+
+![CIMS](https://github.com/raninirmal/Work-Study--Its-Objectives-Benefits/assets/132740254/f718ca63-56eb-4c03-a51f-8ff44a5c5f6b)
 
 
 
