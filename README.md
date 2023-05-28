@@ -28,9 +28,12 @@ Before Taylor, the work force developed own methods by trial and error. Taylor w
 **Work study is responsible for the following innovations**
 
 •	Stopwatch time study
+
 •	High-speed steel tools
 •	Tool grinders
+
 •	Slide rules
+
 •	Functional type organization
 
 **FRANK**
@@ -42,10 +45,11 @@ set of motions when laying the bricks
 lay bricks,
 •	Another set of motions when he is working alone,
 •	Third set of motions when he is in a hurry
+
 **THE WORK STUDY MAN**
+
 •	Personal qualities
-•have an inventive mind,
-•	be capable of devising simple mechanisms and devices which serve the purpose of saving time and effort, be able to gain the cooperation of engineers and technicians in developing such mechanisms, be good in human relations.
+•have an inventive mind,be capable of devising simple mechanisms and devices which serve the purpose of saving time and effort, be able to gain the cooperation of engineers and technicians in developing such mechanisms, be good in human relations.
 •	Sincerity and honesty,
 •	Enthusiasm,
 •	Interest in and sympathy with people,
