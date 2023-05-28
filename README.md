@@ -136,6 +136,38 @@ Efforts to reduce materials and energy consumption brings about considerable imp
   
 7. Optimum energy utilisation and energy savings.
 
+ **5. Human factors**:
+ 
+ Productivity is basically dependent upon human competence and skill. Ability to work effectively is governed by various factors such as education, training, experience aptitude etc., of the employees. Motivation of employees will influence productivity.
+ 
+ **6. Work methods**:
+ 
+ Improving the ways in which the work is done (methods) improves productivity, work study and industrial engineering techniques and training are the areas which improve the work methods, which in term enhances the productivity.
+ 
+ **7. Management style:**
+ 
+ This influence the organizational design, communication in organization, policy and procedures. A flexible and dynamic management style is a better approach to achieve higher productivity
+ 
+**(B) UN-CONTROLLABLE (OR EXTERNAL) FACTORS **
+
+**1. Structural adjustments:**
+
+Structural adjustments include both economic and social changes. Economic changes that influence significantly are:
+(a) Shift in employment from agriculture to manufacturing industry,
+
+ (b) Import of technology, and 
+ 
+(c) Industrial competitiveness. Social changes such as women’s participation in the labour force, education, cultural values, attitudes are some of the factors that play a significant role in the improvement of productivity.
+
+ **2. Natural resources:**
+ 
+ Manpower, land and raw materials are vital to the productivity improvement. 
+ 
+**3. Government and infrastructure:**
+
+Government policies and programmes are significant to productivity practices of government agencies, transport and communication power, fiscal policies (interest rates, taxes) influence productivity to the greater extent.
+
+
 
 
 
