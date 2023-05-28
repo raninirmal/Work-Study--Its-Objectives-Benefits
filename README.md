@@ -106,5 +106,36 @@ These play a prominent role in enhancing the productivity. The increased availab
 
 ![Work Study (Time and motion study)](https://github.com/raninirmal/Work-Study--Its-Objectives-Benefits/assets/132740254/a2a7971d-a5f4-4f18-bad5-7b255a62c229)
 
+**3. Technology:**
+
+Innovative and latest technology improves productivity to a greater extent. Automation and information technology helps to achieve improvements in material handling, storage, communication system and quality control. The various aspects of technology factors to be considered are:
+
+ (i) Size and capacity of the plant
+ 
+ (ii) Timely supply and quality of inputs
+ 
+ (iii) Production planning and control 
+ 
+(iv) Repairs and maintenance
+
+ (v) Waste reduction and 
+ 
+(vi) Efficient material handling system
+
+**4. Material and energy:**
+Efforts to reduce materials and energy consumption brings about considerable improvement in productivity
+
+1. Selection of quality material and right material.
+2. 
+ 2. Control of wastage and scrap. 
+ 3. 
+3. Effective stock control. 
+4. 
+5. Development of sources of supply.
+6.  
+7. Optimum energy utilisation and energy savings.
+
+
+
 
 
