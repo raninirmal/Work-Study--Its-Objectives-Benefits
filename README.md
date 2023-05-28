@@ -50,11 +50,17 @@ lay bricks,
 
 •	Personal qualities
 •have an inventive mind,be capable of devising simple mechanisms and devices which serve the purpose of saving time and effort, be able to gain the cooperation of engineers and technicians in developing such mechanisms, be good in human relations.
+
 •	Sincerity and honesty,
-•	Enthusiasm,
-•	Interest in and sympathy with people,
-•	Tact,
+
+•	Enthusiasm
+
+•	Interest in and sympathy with people
+
+•	Tact
+
 •	Good appearance
+
 •	Self confidence
 
 **2 Introduction**
