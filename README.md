@@ -42,9 +42,12 @@ Before Taylor, the work force developed own methods by trial and error. Taylor w
  (1868-1924) AND LILLIAN (1878-1972) GILBRETH They are known as the parents of motion/method study. Throughout their life time, they searched for the best method of doing a specific job and they developed many new techniques for studying work.
 At the beginning of his work life as a bricklayers apprentice, Frank Gilbreth noticed that his instructor was using three different
 set of motions when laying the bricks
+
 •	One set of motions when he showed Frank how to
 lay bricks,
+
 •	Another set of motions when he is working alone,
+
 •	Third set of motions when he is in a hurry
 
 **THE WORK STUDY MAN**
