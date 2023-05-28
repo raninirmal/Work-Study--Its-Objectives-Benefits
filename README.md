@@ -12,7 +12,8 @@
 11.	Work Measurement
 12.	Work Measurement objective
 13.	Work Measurement Benefits
-14.	Bibliography  
+14.	Bibliography
+  
 **1.	History of work study**
 **FREDERICK W. TAYLOR**
 
