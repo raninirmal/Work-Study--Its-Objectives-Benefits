@@ -80,4 +80,31 @@ The time required to manufacture an item depends upon the manufacturing procedur
 “Method study is the systematic recording and critical examination of existing and proposed ways of doing work, as a means of developing and applying easier and more effective methods and reducing costs.” “Work measurement is the application or techniques designed to establish the time for a qualified worker to carry out a specified job at a defined level or performance.”
 This is generally achieved by eliminating unnecessary motions involved in a certain procedure or by changing the sequence of operation or the process itself.
 
+**PRODUCTIVITY**
+
+Productivity is the quantitative relation between what we produce and we use as a resource to produce them, i.e., arithmetic ratio of amount produced (output) to the amount of resources (input). Productivity can be expressed as:
+
+ Productivity = Output / Input
+ 
+Productivity refers to the efficiency of the production system. It is the concept that guides the management of production system. It is an indicator to how well the factors of production (land, capital, labour and energy) are utilised. European Productivity Agency (EPA) has defined productivity as, “Productivity is an attitude of mind. 
+
+It is the mentality of progress, of the constant improvements of that which exists. It is the certainty of being able to do better today than yesterday and continuously.
+
+**Factors Influencing Productivity**
+
+Factors influencing productivity can be classified broadly into two categories: (A) controllable (or internal) factors and (B) un-controllable (or external) factors.
+
+**(A) CONTROLLABLE (OR INTERNAL) FACTORS** 
+
+**1. Product factor**: 
+In terms of productivity means the extent to which the product meets output requirements product is judged by its usefulness. The cost benefit factor of a product can be enhanced by increasing the benefit at the same cost or by reducing cost for the same benefit. 
+
+**2. Plant and equipment:**
+These play a prominent role in enhancing the productivity. The increased availability of the plant through proper maintenance and reduction of idle time increases the productivity. Productivity can be increased by paying proper attention to utilisation, age, modernisation, cost, investment etc
+
+**Work Study (Time and motion study)****
+
+![Work Study (Time and motion study)](https://github.com/raninirmal/Work-Study--Its-Objectives-Benefits/assets/132740254/a2a7971d-a5f4-4f18-bad5-7b255a62c229)
+
+
 
