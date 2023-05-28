@@ -123,16 +123,17 @@ Innovative and latest technology improves productivity to a greater extent. Auto
 (vi) Efficient material handling system
 
 **4. Material and energy:**
+
 Efforts to reduce materials and energy consumption brings about considerable improvement in productivity
 
 1. Selection of quality material and right material.
-2. 
+ 
  2. Control of wastage and scrap. 
- 3. 
+ 
 3. Effective stock control. 
-4. 
+
 5. Development of sources of supply.
-6.  
+  
 7. Optimum energy utilisation and energy savings.
 
 
