@@ -13,8 +13,9 @@
 12.	Work Measurement objective
 13.	Work Measurement Benefits
 14.	Bibliography  
-1.	History of work study
+**1.	History of work study**
 **FREDERICK W. TAYLOR**
+
  (1856-1915) He is known as the father of scientific management and industrial engineering. He is the first person to use a stopwatch to study work content and as such, the father of time study. Throughout his professional life, he worked as an apprentice machinist, time keeper expediter, lathe operator, gang boss, foreman of the machine shop and chief engineer.
 Before Taylor, the work force developed own methods by trial and error. Taylor wanted management to reject an opinion for a more exact science.
  Specified the work method
