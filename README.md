@@ -167,6 +167,18 @@ Structural adjustments include both economic and social changes. Economic change
 
 Government policies and programmes are significant to productivity practices of government agencies, transport and communication power, fiscal policies (interest rates, taxes) influence productivity to the greater extent.
 
+**Total Productivity Measure (TPM)**
+
+It is based on all the inputs. The model can be applied to any manufacturing organization or service company.
+
+** Total productivity = Total tangible output / Total trangible input**
+ 
+Total tangible output = Value of finished goods produced + Value of partial units produced + Dividents from securities + Interest + Other income 
+
+Total tangible input = Value of (human + material + capital + energy + other inputs) used. 
+The word tangible here refers to measurable. 
+The output of the firm as well as the inputs must be expressed in a common measurement unit. The best way is to express them in rupee value
+
 
 
 
