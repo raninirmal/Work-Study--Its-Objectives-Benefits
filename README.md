@@ -44,9 +44,9 @@ At the beginning of his work life as a bricklayers apprentice, Frank Gilbreth no
 set of motions when laying the bricks
 
 •	One set of motions when he showed Frank how to
-lay bricks,
+lay bricks
 
-•	Another set of motions when he is working alone,
+•	Another set of motions when he is working alone
 
 •	Third set of motions when he is in a hurry
 
