@@ -1184,18 +1184,18 @@ It is intended to compensate the operator for the time necessary to leave, the w
 
 This allowance is given to compensate for energy expended during working. A common figure considered as allowance is 4% of the basic time.
 
-**2.	VARIABLE ALLOWANCE**
+**2.VARIABLE ALLOWANCE**
 
 Variable allowance is allowed to an operator who is working under poor environmental conditions that cannot be improved, added stress and strain in performing the job. The variable fatigue allowance is added to the fixed allowance to an operator who is engaged on medium and heavy work and working under abnormal conditions. The amount of variable fatigue allowance varies from organization to organization.
 
-**3.	INTERFERENCE ALLOWANCE **
+**3.INTERFERENCE ALLOWANCE **
 
 It is an allowance of time included into the work content of the job to compensate the operator for the unavoidable loss of production due to simultaneous stoppage of two or more machines being operated by him.
 This allowance is applicable for machine or process controlled jobs
 Interference allowance varies in proportion to number of machines assigned to the operator. 
 The interference of the machine increases the work content.
 
-**4.	CONTINGENCY ALLOWANCE**
+**4.CONTINGENCY ALLOWANCE**
 	
  A contingency allowance is a small allowance of time which may be included in a standard time to meet legitimate and expected items of work or delays. 
 The precise measurement of which is uneconomical because of their infrequent or irregular occurrence. This allowance provides for small unavoidable delays as well as for occasional minor extra work: Some of the examples calling for contingency allowance are:
@@ -1204,7 +1204,7 @@ The precise measurement of which is uneconomical because of their infrequent or 
  Power failures of small duration.
   Obtaining the necessary tools and gauges from central tool store. Contingency allowance should not exceed 5%
   
-**5.	POLICY ALLOWANCE** 
+**5.POLICY ALLOWANCE** 
 
 Policy allowances are not the genuine part of the time study and should be used with utmost care and only in clearly defined circumstances. 
 The usual reason for making the policy allowance is to line up standard times with requirements of wage agreement between employers and trade unions. The policy allowance is an increment, other than bonus increment, applied to a standard time (or to some constituent part of it, e.g., work content) to provide a satisfactory level of earnings for a specified level of performance under exceptional circumstances. Policy allowances are sometimes made as imperfect functioning of a division or part of a plant.
@@ -1214,25 +1214,25 @@ The usual reason for making the policy allowance is to line up standard times wi
 Organizations determine whether work programs, investments, and acquisitions achieve their objectives in work measurement.
 
 A good work measurement system has the following benefits. 
-•	A better understanding of work measurements enables better control over work methods and processes.
+•A better understanding of work measurements enables better control over work methods and processes.
 
-•	Evaluate the suitableness of the workforce assigned to an organization.
+•Evaluate the suitableness of the workforce assigned to an organization.
 
-•	A good management system reduces labor costs, increases productivity, and improves performance appraisal, planning, and scheduling.
+•A good management system reduces labor costs, increases productivity, and improves performance appraisal, planning, and scheduling.
 
-•	Work measurement enables the development of realistic work schedules through an accurate assessment of human work compared to plant capacity for production and maintenance planning. 
+•Work measurement enables the development of realistic work schedules through an accurate assessment of human work compared to plant capacity for production and maintenance planning. 
 
-•	Detailed instructions are provided on how to prepare estimated selling prices and delivery schedules for tenders.
+•Detailed instructions are provided on how to prepare estimated selling prices and delivery schedules for tenders.
 
-•	The effectiveness of work planning can be determined.
+•The effectiveness of work planning can be determined.
 
-•	Prevents backlogs of work.
+•Prevents backlogs of work.
 
-•	Streamline work processes. 
+•Streamline work processes. 
 
-•	Simplifies workforce planning through an analysis of actual and standard time.
+•Simplifies workforce planning through an analysis of actual and standard time.
 
-•	The cost and labor requirements of the future can be estimated. The purpose of this is to provide a framework for estimating and controlling labor costs.
+•The cost and labor requirements of the future can be estimated. The purpose of this is to provide a framework for estimating and controlling labor costs.
 
 **Work measurement techniques and their application**
 
